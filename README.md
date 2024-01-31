@@ -1,6 +1,6 @@
 # Welcome to My Course Summary: Understanding ChatGPT Prompt Engineering for Developers
 
-In this document, I've compiled my personal notes and understanding from the "ChatGPT Prompt Engineering for Developers" course. It's a comprehensive look into the techniques and insights gained from the course, focusing on the strategic use of Large Language Models (LLMs) in software development. Please take a moment to explore my interpretation and key takeaways from this enlightening learning experience.
+I've compiled my personal notes and understanding from the "ChatGPT Prompt Engineering for Developers" course. It's a comprehensive look into the techniques and insights gained from the course, focusing on the strategic use of Large Language Models (LLMs) in software development. Please take a moment to explore my interpretation and key takeaways from this enlightening learning experience.
 
 ## Key Insights
 
